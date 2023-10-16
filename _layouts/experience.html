@@ -1,0 +1,49 @@
+---
+layout: page
+---
+
+<!-- experience.html -->
+<div class="post">
+
+  <div>
+    {% if page.experiences -%}
+    {% for profile in page.experiences %}
+    <hr>
+    <div class="row">
+      <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+        {%- if profile.image %}
+        {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+
+        {% if profile.image_circular %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+        {% else %}
+        {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+        {% endif %}
+
+        {% include figure.html
+        path=profile_image_path
+        class=profile_image_class
+        alt=profile.image -%}
+        {% endif -%}
+        {%- if profile.more_info %}
+        <div class="more-info">
+          {{ profile.more_info }}
+        </div>
+        {%- endif %}
+      </div>
+
+      <div class="clearfix col-sm-8">
+        {% if profile.content -%}
+          {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+          {{ profile_content | markdownify }}
+        {% elsif profile.exp_info -%}
+          {{ profile.exp_info }}
+        {%- else -%}
+          {{ content }}
+        {%- endif %}
+      </div>
+    </div>
+    {% endfor %}
+    {%- endif %}
+  </div>
+</div>

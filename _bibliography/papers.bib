@@ -3,82 +3,45 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{junare2022deep,
+  title={Deep Learning based end-to-end Grasping Pipeline on a lowcost 5-DOF Robotic arm},
+  author={Junare, Pranay and Deshmukh, Mihir and Kulkarni, Mihir and Bartakke, Prashant},
+  booktitle={IEEE 19th India Council International Conference (INDICON)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE},
+  pdf = {https://ieeexplore.ieee.org/document/10040180},
+  html = {https://ieeexplore.ieee.org/document/10040180},
+  video = {https://www.youtube.com/watch?v=a12LXmxJKR4},
+  preview = {Grasping_DL.gif},
+  abstract = {The problem of robotic grasping is still an unsolved problem with many approaches trying to generalize grasp predictions for unseen and dynamic environments. In this paper, we propose a complete end-to-end pipeline for the task of Deep Learning based robotic grasping on a lowcost 5-DOF arm. We explore Transfer learning approach and then train our grasping model from end-to-end. In the transfer learning approach we tried 2 base models, VGG-16 and ResNet-50. Our grasping model when ResNet-50 is used as base architecture provided better results with a testing accuracy of 83.3% while VGG-16 provided an accuracy of 78.2%. In order to test our model on a real robotic arm, we built a 5-DOF arm and added a custom parallel plate gripper. Complete ROS and Moveit support is added to our developed robotic arm. The processed RG-D image from the KinectV2 camera is given as an input to the model which predicts the 5-D grasp configuration. Required electronic system design and its PCB is built which controls the robotic arm. The predicted 5-D grasp configuration is then transformed to the object pose w.r.t the base link frame of the robot. Lastly, a ROS node is written that automates the task of picking objects lying in different positions & orientations and sends the joint angle values over pyserial communication to the microcontroller's PCB.},
+  selected = {true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{kulkarni2021visual,
+  title={Visual SLAM Combined with Object Detection for Autonomous Indoor Navigation using Kinect V2 and ROS},
+  author={Kulkarni, Mihir and Junare, Pranay and Deshmukh, Mihir and Rege, Priti P},
+  booktitle={IEEE 6th International Conference on Computing, Communication and Automation (ICCCA)},
+  pages={478--482},
+  year={2021},
+  organization={IEEE},
+  pdf = {https://ieeexplore.ieee.org/document/9666426},
+  html = {https://ieeexplore.ieee.org/document/9666426},
+  video = {https://www.youtube.com/watch?v=-NRKtv8KcNM},
+  preview = {/RPM.png},
+  abstract = {SLAM can be defined as exploring the unknown environment while mapping the robot's surroundings alongside estimating its pose (i.e., position and orientation). It is primarily done using the sensors mounted on the robot. SLAM enables us to autonomously navigate the robot throughout the map based on given final goal coordinates or waypoints. However, SLAM algorithms alone are not capable of performing complex tasks such as autonomous payload delivery in warehouses, healthcare facilities, etc. These tasks require additional semantic information about the environment. To solve this problem, we propose a solution where the traditional Visual SLAM method is accompanied by object detection using pre-trained CNNs to enhance the robot's capabilities of navigating efficiently and performing robust 3D perception in indoor environments. RTAB-Map using the KinectV2 RGB-D Camera is selected to perform Visual SLAM while the YOLO V3 tiny model acts as the CNN detector for detecting objects of interest. Development platform used is ROS & Gazebo. The proposed solution is experimentally verified by simulating the Turtlebot in the Gazebo environment.},
+  selected = {true}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{junaredevelopment,
+  title={Development of Robotic Arm Manipulator mounted on Self Balancing Two Wheeled Mobile Robot},
+  author={Junare, Pranay and Mahajan, Shaunak and Nallawar, Anirudh and Ohol, SS},
+  journal={Aerospace and Defence Related Mechanisms Symphosium (ARMS)},
+  year={2021},
+  pdf = {https://www.researchgate.net/publication/358211858_Development_of_Robotic_Arm_Manipulator_mounted_on_Self_Balancing_Two_Wheeled_Mobile_Robo},
+  video = {https://www.youtube.com/watch?v=CkbDVIfOazs},
+  html = {https://www.researchgate.net/publication/358211858_Development_of_Robotic_Arm_Manipulator_mounted_on_Self_Balancing_Two_Wheeled_Mobile_Robo},
+  preview = {Hubot_short.gif},
+  abstract = {Self-balancing robots are becoming increasingly popular now a days. They have better agility and are compact in size when compared to four-wheeled mobile robots. On the other hand, robotic arms are widely used in manufacturing units and industrial automation processes. But most of these robotic arms lack the navigation capabilities. Thus, to overcome these issues of mobile arm manipulation and performing swift locomotion in narrow dense areas, we have built a robotic system. It has two wheeled self-balancing mobile base and two 5DOF arms driven by servo actuators capable of mimicking the humanoid robot movement. For accurate state estimation of the robot, angles computed by implementation of MEMS sensor fusion algorithms is used. The Cascaded PID Controller is designed to realize the movement of the robot in forward and backward direction. Thus, the complete methodology used to maintain the robot upright throughout the unprecedented disturbance along with mechanical system design and mathematical modeling is mentioned in this paper. Later the simulation of the robotic system is done using Gazebo and ROS and finally verification of the simulation results is done by actual hardware implementation.},
+  selected = {true}
 }
