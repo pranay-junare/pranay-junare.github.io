@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>junarepranay@gmail.com</p>
-    <p><a href="mailto:junarepranay@gmail.com">Email</a>  | <a href="https://scholar.google.com/citations?user=38XpwpkAAAAJ&hl">Google Scholar</a> </p>
+    <p><a href="mailto:junarepranay@gmail.com">Email</a>  | <a href="https://scholar.google.com/citations?user=38XpwpkAAAAJ&hl">Google Scholar</a> </p> <br/>
     <p><a href="/assets/pdf/PranayJunare_CV.pdf">CV</a> | <a href="https://github.com/pranay-junare">Github</a> | </p>
-    <p><a href="https://www.linkedin.com/in/pranay-junare">LinkedIn</a></p>
+    <p><a href="https://www.linkedin.com/in/pranay-junare">LinkedIn</a></p> <br/>
     <p>Pune, India</p>
 
 news: true  # includes a list of news items
@@ -32,4 +32,4 @@ During my undergraduate days, I was a Team Member of University's Robotics Labor
 In addition, I was a former Summer Research Intern at [NTU-Singapore](https://www.ntu.edu.sg/) under [Dr. Xie Ming](https://dr.ntu.edu.sg/cris/rp/rp00965) and was funded by the `NTU-India Connect Research Fellowship`. I was also fortunate enough to have worked with [Dr. Scott Nokleby](https://ontariotechu.ca/experts/feas/scott-nokleby.php) under the `Canadian MITACS-Globalink'21 Research Scholarship`. 
 
 
-`Note` : I am actively looking for PhD positions in Robotics for Fall'24.
+`Note` : `I am actively looking for PhD positions in Robotics for Fall'24.`
