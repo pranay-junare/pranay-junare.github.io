@@ -16,8 +16,8 @@ experiences:
       Pune, India June 2022 – Present <br> 
       Trade & Risk Management Team</p>
       <p>
-      • Working in ION’s Treasury Product which serves the needs of major Fortune-100 Companies & top Central banks in capturing their high value transactions of FX, Derivatives, Futures, Swap, Options, etc. <br/>
-      • Responsible for design, development and enhancement of low-latency “Trade & Risk Management” Module.
+        • Responsible for design, development and enhancement of low-latency “Trade & Risk Management” product of ION’s WallStreet Suite treasury solution, which serves most Central banks and major Fortune-100 companies. 
+        • Using a diverse technology stack including C++, Python, C++ Boost library, DBMS(Oracle, MS-SQL), Perl, Docker-CLI, Git, ION’s internal frameworks, CI/CD pipeline, Automated testing, and with concepts such as OOPS, SOLID principles and clean code methodologies delivered user-stories with high velocity and quality.
       </p>
     expand_info: {{This is additional information}}
     image_circular: false # crops the image to make it circular
