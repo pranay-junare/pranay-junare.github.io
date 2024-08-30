@@ -19,7 +19,7 @@
 ## Quick Start
 
 ```bash
-# run docker daemon by either using docker deskptop app or with $ sudo dockerd
+# run docker daemon by either using docker desktop app or with $ sudo dockerd
 $ cd ~/1_projects/e_portfolio/pranay-junare.github.io
 $ docker-compose up
 ```
