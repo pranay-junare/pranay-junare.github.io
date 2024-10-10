@@ -10,14 +10,28 @@ experiences:
   # if you want to include more than one experience, just replicate the following block
 
   - align: left
+    image: /personal_img/UMN.png
+    exp_info: >
+      <p><code class="language-plaintext highlighter-rouge">Research Assitant</code> - <a href="https://pranay-junare.github.io/">FFIL Laboratory</a> <br> 
+      Minneapolis, MN, USA <br> 
+      Sept 2024 – Present </p>
+      <p>
+        • Currently working on multiview 3D reconstruction of smoke plume using Gaussian Splatting and NeRFs. <br/>
+        • Developing Vision-based algorithms for autonomous UAV swarm navigation to characterize smoke particles during wildfires.
+      </p>
+    expand_info: {{This is additional information}}
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
     image: /personal_img/ion_logo.jpeg
     exp_info: >
       <p><code class="language-plaintext highlighter-rouge">Software Developer</code> - <a href="https://iongroup.com/">ION Trading</a> <br> 
-      Pune, India June 2022 – Present <br> 
+      Pune, India June 2022 – Aug 2024 <br> 
       Trade & Risk Management Team</p>
       <p>
-        • Responsible for design, development and enhancement of low-latency “Trade & Risk Management” product of ION’s WallStreet Suite treasury solution, which serves most Central banks and major Fortune-100 companies. <br> 
-        • Using a diverse technology stack including C++, Python, C++ Boost library, DBMS(Oracle, MS-SQL), Perl, Docker-CLI, Git, ION’s internal frameworks, CI/CD pipeline, Automated testing, and with concepts such as OOPS, SOLID principles and clean code methodologies delivered user-stories with high velocity and quality.
+        • Responsible for design, development and enhancement of low-latency “Trade & Risk Management” product of ION’s WallStreet Suite treasury solution, which serves most Central banks and major Fortune-100 companies. <br/>
+        • Delivered backend features with high velocity and quality using a diverse technology stack including C++, Python, C++ Boost library, DBMS(Oracle, MS-SQL), Perl, Docker-CLI, Git, ION’s internal frameworks, CI/CD pipeline, Automated testing, and with concepts such as OOPS, SOLID principles and clean code methodologies.
       </p>
     expand_info: {{This is additional information}}
     image_circular: false # crops the image to make it circular
