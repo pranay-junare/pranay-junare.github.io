@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>junar002@umn.edu</p>
     <p><a href="mailto:junar002@umn.edu">Email</a>  | <a href="https://scholar.google.com/citations?user=38XpwpkAAAAJ&hl">Google Scholar</a> </p> <br/>
-    <p><a href="/assets/pdf/PranayJunare_CV.pdf">CV</a> | <a href="https://github.com/pranay-junare">Github</a> | </p>
+    <p><a href="/assets/pdf/PranayJunare_Resume.pdf">CV</a> | <a href="https://github.com/pranay-junare">Github</a> | </p>
     <p><a href="https://www.linkedin.com/in/pranay-junare">LinkedIn</a></p> <br/>
     <p>Minneapolis, MN, USA</p>
 
