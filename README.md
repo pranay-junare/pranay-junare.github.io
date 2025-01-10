@@ -23,7 +23,16 @@
 $ cd ~/1_projects/e_portfolio/pranay-junare.github.io
 $ docker-compose up
 ```
+```
+Note: 
+1. I am using stable docker image: v0.10.1. This is because I have heavily customized the orignal template. 
 
+2. You can use the latest docker image to if you want upgrades/fixes to the any bugs if you don't have your own customizations. 
+
+3. Or another hard way of doing is to manually rebase and resolve any merge conflicts. (Not recommended)
+```
+
+## Orignal Readme Begins
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
