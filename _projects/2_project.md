@@ -2,7 +2,7 @@
 layout: page
 title: DRL-UAV
 description: Deep Reinforcement Learning for autonomous UAV navigation
-img: assets/img/projects/clothbot.gif
+img: assets/img/projects/drl_uav.gif
 redirect: https://github.com/pranay-junare/RL-UAV/
 importance: 2
 category: work

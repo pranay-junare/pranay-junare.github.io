@@ -2,7 +2,7 @@
 layout: page
 title: VSLAM-detect
 description: Visual SLAM & Object detection for Autonomous Mobile Robot
-img: assets/img/projects/clothbot.gif
+img: assets/img/projects/vslam_detect.gif
 redirect: https://www.youtube.com/watch?v=-NRKtv8KcNM&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=6
 importance: 4
 category: work

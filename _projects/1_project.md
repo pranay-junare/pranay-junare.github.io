@@ -2,7 +2,7 @@
 layout: page
 title: Clothbot
 description: 'Clothbot: Cloth Manipulation using Self-supervised value network'
-img: assets/img/projects/clothbot.gif
+img: assets/img/projects/clothbot.png
 redirect: https://pranay-junare.github.io/clothbot/
 importance: 1
 category: work

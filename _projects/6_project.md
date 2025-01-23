@@ -2,7 +2,7 @@
 layout: page
 title: Cubalance
 description: Simulation and Design of Cube balancing
-img: assets/img/projects/clothbot.gif
+img: assets/img/projects/cubalance.png
 redirect: https://www.youtube.com/watch?v=-3vW-ikCra8&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=7
 importance: 6
 category: work

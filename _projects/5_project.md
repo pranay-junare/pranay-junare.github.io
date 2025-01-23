@@ -2,7 +2,7 @@
 layout: page
 title: Hubot
 description: Robust Control of Inverted Pendulum Robot
-img: assets/img/projects/clothbot.gif
+img: assets/img/projects/hubot.gif
 redirect: https://www.youtube.com/watch?v=CkbDVIfOazs&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=5
 importance: 5
 category: work
