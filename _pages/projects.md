@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 6
-display_categories: [work, fun]
+description: Pranay's projects in Computer Vision, Deep learning and Robotics. 
+nav: true
+nav_order: 4
+display_categories: [work]  # disabled 'fun' category ie default project templates
 horizontal: false
 ---
 

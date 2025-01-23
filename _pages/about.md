@@ -24,7 +24,7 @@ experience_display: true
 
 Hello! I'm a MS. in Robotics student at University of Minnesota (UMN)-Twin Cities, an Ex-Software Developer at ION Trading, past Research Intern at NTU-Singapore, and a Research Scholar at MITACS-Canada.
 
-I am fundamentally passionate about understanding how human perception & manipulation work and how we can build autonomous systems that have tremendous positive social impact. In pursuit of this passion, I aim to build autonomous perception systems that are at par with the inherent human cognitive capabilities. My research interests broadly lies in `Vision-based Autonomous Systems` especially in the domains of `Perception, Manipulation, Robot Learning and 3D-Computer Vision`.
+I am fundamentally passionate about understanding how human perception & manipulation work and how we can build autonomous systems that have tremendous positive social impact. In pursuit of this passion, I aim to build autonomous perception systems that are at par with the inherent human cognitive capabilities. My research interests broadly lies in `Vision-based Autonomous Systems` especially in the domains of `Robot Learning, Perception, and 3D-Computer Vision`.
 
 During my undergraduate days, I was a Team Member of University's Robotics Laboratory advised by [Dr. Shantipal Ohol](https://www.coep.org.in/mycoep/ssomechcoepacin) and have also interned with 2 startups [Exa Mobility](https://www.exa-mobility.com/) and [Binary Robotics](https://www.binaryrobotics.in/).
 

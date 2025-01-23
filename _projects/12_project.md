@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 5
-category: work
+title: project 12
+description: a project with a background image and giscus comments
+img: assets/img/3.jpg
+importance: 12
+category: fun
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 5
-category: work
+title: project 11
+description: a project with a background image
+img: assets/img/12.jpg
+importance: 11
+category: fun
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

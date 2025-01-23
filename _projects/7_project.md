@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: project 7
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 5
+importance: 7
 category: work
 ---
 
