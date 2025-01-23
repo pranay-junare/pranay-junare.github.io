@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Hubot
+description: Robust Control of Inverted Pendulum Robot
+img: assets/img/projects/clothbot.gif
+redirect: https://www.youtube.com/watch?v=CkbDVIfOazs&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=5
 importance: 5
 category: work
 ---

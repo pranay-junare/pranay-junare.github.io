@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Project 2
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: DRL-UAV
+description: Deep Reinforcement Learning for autonomous UAV navigation
+img: assets/img/projects/clothbot.gif
+redirect: https://github.com/pranay-junare/RL-UAV/
 importance: 2
 category: work
 ---

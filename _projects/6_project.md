@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Cubalance
+description: Simulation and Design of Cube balancing
+img: assets/img/projects/clothbot.gif
+redirect: https://www.youtube.com/watch?v=-3vW-ikCra8&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=7
 importance: 6
 category: work
 ---

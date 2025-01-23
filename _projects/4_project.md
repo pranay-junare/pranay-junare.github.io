@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: VSLAM-detect
+description: Visual SLAM & Object detection for Autonomous Mobile Robot
+img: assets/img/projects/clothbot.gif
+redirect: https://www.youtube.com/watch?v=-NRKtv8KcNM&list=PLbNPSvt1N1YoIfctcBtG97-qipWpIgww3&index=6
 importance: 4
 category: work
 ---

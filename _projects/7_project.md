@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 7
-description: a project that redirects to another website
+title: Omni-bot
+description: Semi-Autonomous Omni-directional Mobile Robot for ABU Robocon
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://pranay-junare.github.io/projects/
 importance: 7
 category: work
 ---

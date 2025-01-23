@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project 1
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Clothbot
+description: 'Clothbot: Cloth Manipulation using Self-supervised value network'
+img: assets/img/projects/clothbot.gif
 redirect: https://pranay-junare.github.io/clothbot/
 importance: 1
 category: work

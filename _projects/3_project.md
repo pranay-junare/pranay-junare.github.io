@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Deep-Grasp
+description: Deep Learning based end-to-end Grasping Pipeline on a lowcost 5-DOF Robotic arm
+img: assets/img/projects/deep_grasp.gif
+redirect: https://github.com/pranay-junare/Robotic-Grasping
 importance: 3
 category: work
 ---
